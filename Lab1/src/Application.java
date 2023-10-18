@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Aplication {
+public class Application {
 	public static void main(String[] arqs) {
 		System.out.println("Hello World!");
 		

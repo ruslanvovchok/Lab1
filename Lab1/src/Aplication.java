@@ -1,8 +1,6 @@
-
 import java.util.Scanner;
 
-public class Application {
-	
+public class Aplication {
 	public static void main(String[] arqs) {
 		System.out.println("Hello World!");
 		
@@ -11,5 +9,4 @@ public class Application {
 		
 		System.out.println("Hello " + userName + "! Nice to meet you");
 	}
-	
 }
